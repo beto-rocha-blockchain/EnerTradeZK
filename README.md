@@ -90,6 +90,8 @@ function verifyBalanceProof(uint256[2] memory a, uint256[2][2] memory b, uint256
 
 ## 🛠️ Tecnologias Utilizadas
 
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=beto-rocha-blockchain&repo=EnerTradeZK&layout=compact)
+
 - Solidity
 - Hardhat
 - Circom
