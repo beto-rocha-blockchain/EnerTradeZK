@@ -1,3 +1,5 @@
+![EnerTradeZK](assets/image.jpeg)
+
 # EnerTradeZK - Plataforma de Trading de Energia com Zero Knowledge
 
 EnerTradeZK é uma plataforma descentralizada para trading de energia utilizando provas de conhecimento zero (Zero Knowledge Proofs) para garantir privacidade e segurança nas transações.
