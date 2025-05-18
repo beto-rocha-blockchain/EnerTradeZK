@@ -4,6 +4,14 @@
 
 EnerTradeZK é uma plataforma descentralizada para trading de energia utilizando provas de conhecimento zero (Zero Knowledge Proofs) para garantir privacidade e segurança nas transações.
 
+---
+
+## 📊 Linguagens utilizadas no projeto
+
+![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=beto-rocha-blockchain&repo=EnerTradeZK&layout=compact)
+
+---
+
 ## 🚀 Funcionalidades
 
 - **Token EnerZ**: Token ERC20 para representar unidades de energia
@@ -89,8 +97,6 @@ function verifyBalanceProof(uint256[2] memory a, uint256[2][2] memory b, uint256
 ```
 
 ## 🛠️ Tecnologias Utilizadas
-
-![Linguagens usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=beto-rocha-blockchain&repo=EnerTradeZK&layout=compact)
 
 - Solidity
 - Hardhat
