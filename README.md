@@ -104,6 +104,7 @@ function verifyBalanceProof(uint256[2] memory a, uint256[2][2] memory b, uint256
 - SnarkJS
 - OpenZeppelin
 - Infura
+- MetaMask
 
 ## 🔒 Segurança
 
