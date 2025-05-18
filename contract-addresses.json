@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "EnerZ": "0xaB658d27EFbB5582bfdb4edc835CC12342fDf24E",
+    "Groth16Verifier": "0x45fFe2034897736d0Aa9FC4f51375df007265095",
+    "Exchange": "0x52c7949162d267eD3ff2AF191380c216Dc92d465",
+    "deployDate": "2024-03-19"
+  }
+} 
