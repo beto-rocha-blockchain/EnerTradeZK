@@ -3,7 +3,7 @@
 const hre = require("hardhat");
 
 async function main() {
-  console.log("Iniciando deploy dos contratos...");
+  console.log("Iniciando deploy dos contratos na rede ZkVerify Testnet...");
 
   // Definindo o supply inicial (1 milhão de tokens com 18 casas decimais)
   const initialSupply = hre.ethers.parseUnits("1000000", 18);

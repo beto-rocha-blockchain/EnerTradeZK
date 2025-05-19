@@ -16,6 +16,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.3",
     "circomlib": "^2.0.5",
-    "dotenv": "^16.5.0"
+    "dotenv": "^16.5.0",
+    "snarkjs": "^0.7.5"
   }
 }
