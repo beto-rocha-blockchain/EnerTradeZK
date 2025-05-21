@@ -56,14 +56,14 @@ INFURA_PROJECT_ID=seu_project_id_infura
 
 ```
 EnerTradeZK/
-├── contracts/              # Contratos Solidity
-│   ├── EnerZ.sol          # Token ERC20
-│   ├── Exchange.sol       # Contrato de Exchange
-│   └── Groth16Verifier.sol # Verificador de provas ZK
-├── circuits/              # Circuitos Circom
-│   └── balance_proof.circom # Circuito de prova de saldo
-├── scripts/               # Scripts de deploy
-└── test/                  # Testes
+├── contracts/                    # Contratos Solidity
+│   ├── EnerZ.sol                 # Token ERC20
+│   ├── Exchange.sol              # Contrato de Exchange
+│   └── Groth16Verifier.sol       # Verificador de provas ZK
+├── circuits/                     # Circuitos Circom
+│   └── balance_proof.circom      # Circuito de prova de saldo
+├── scripts/                      # Scripts de deploy
+└── test/                         # Testes
 ```
 
 ## 🚀 Deploy
